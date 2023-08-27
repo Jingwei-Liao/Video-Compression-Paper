@@ -2,7 +2,7 @@
 
 DVC: An end-to-end deep video compression framework
 [
-  [CVPR 2019]([https://arxiv.org/pdf/1803.06131.pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_DVC_An_End-To-End_Deep_Video_Compression_Framework_CVPR_2019_paper.pdf)https://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_DVC_An_End-To-End_Deep_Video_Compression_Framework_CVPR_2019_paper.pdf)
+  [CVPR 2019](https://arxiv.org/pdf/1812.00101.pdf)
   |
   [DVC](https://github.com/GuoLusjtu/DVC)
 ]
