@@ -20,3 +20,10 @@ FVC: A New Framework towards Deep Video Compression in Feature Space
   |
   [unofficial_FVC](https://github.com/bygonexf/unofficial-FVC)
 ]
+
+Hybrid Spatial-Temporal Entropy Modelling for Neural Video Compression
+[
+  [MM 2022](https://arxiv.org/pdf/2207.05894.pdf)
+  |
+  [DCVC-HEM](https://github.com/microsoft/DCVC)
+]
