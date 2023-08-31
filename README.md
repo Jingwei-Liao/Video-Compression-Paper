@@ -34,3 +34,10 @@ Hybrid Spatial-Temporal Entropy Modelling for Neural Video Compression
   |
   [DCVC-HEM](https://github.com/microsoft/DCVC)
 ]
+
+Neural Video Compression with Diverse Contexts
+[
+  [CVPR 2023](https://arxiv.org/pdf/2302.14402.pdf)
+  |
+  [DCVC-DC](https://github.com/microsoft/DCVC)
+]
