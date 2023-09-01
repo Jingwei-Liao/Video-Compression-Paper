@@ -21,6 +21,13 @@ FVC: A New Framework towards Deep Video Compression in Feature Space
   [unofficial_FVC](https://github.com/bygonexf/unofficial-FVC)
 ]
 
+CANF-VC: Conditional Augmented Normalizing Flows for Video Compression
+[
+  [ECCV 2022](https://arxiv.org/pdf/2207.05315.pdf)
+  |
+  [CANF-VC](https://github.com/NYCU-MAPL/CANF-VC/tree/main)
+]
+
 Temporal Context Mining for Learned Video Compression
 [
   [TMM 2022](https://arxiv.org/pdf/2111.13850.pdf)
