@@ -48,3 +48,10 @@ Neural Video Compression with Diverse Contexts
   |
   [DCVC-DC](https://github.com/microsoft/DCVC)
 ]
+
+Motion Information Propagation for Neural Video Compression
+[
+ [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Qi_Motion_Information_Propagation_for_Neural_Video_Compression_CVPR_2023_paper.pdf)
+ |
+ [I guess will be published]
+]
