@@ -1,5 +1,6 @@
 # Video-Compression-Paper
 
+## Delay Constrained Codecs
 DVC: An end-to-end deep video compression framework
 [
   [CVPR 2019](https://arxiv.org/pdf/1812.00101.pdf)
@@ -54,4 +55,12 @@ Motion Information Propagation for Neural Video Compression
  [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Qi_Motion_Information_Propagation_for_Neural_Video_Compression_CVPR_2023_paper.pdf)
  |
  [I guess will be published]
+]
+
+## None Delay Constrained Codecs
+Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement
+[
+ [CVPR 2020](https://arxiv.org/pdf/2003.01966.pdf)
+ |
+ [with_training_code_tensorflow](https://github.com/RenYang-home/HLVC)
 ]
