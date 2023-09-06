@@ -58,6 +58,21 @@ Motion Information Propagation for Neural Video Compression
 ]
 
 ## None Delay Constrained Codecs
+
+Video Compression With Rate-Distortion Autoencoders
+[
+  [ICCV 2019 3DAutoencoder](https://arxiv.org/pdf/1908.05717.pdf)
+  |
+  [None]
+]
+
+High-quality Single-model Deep Video Compression with Frame-Conv3D and Multi-frame Differential Modulation
+[
+  [ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750239.pdf)
+  |
+  [None]
+]
+
 Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement
 [
  [CVPR 2020](https://arxiv.org/pdf/2003.01966.pdf)
