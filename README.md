@@ -93,3 +93,11 @@ Learning for Video Compression with Hierarchical Quality and Recurrent Enhanceme
  |
  [with_training_code_tensorflow](https://github.com/RenYang-home/HLVC)
 ]
+
+# Survey
+Deep Learning for Omnidirectional Vision: A Survey and New Perspectives
+[
+  [arxiv 2022](https://arxiv.org/pdf/2205.10468.pdf)
+  |
+  [reference links](https://github.com/haoai-1997/Deep-learning-Survey-for-Omnidirectional-vision/tree/main)
+]
