@@ -59,6 +59,20 @@ Motion Information Propagation for Neural Video Compression
 
 ## None Delay Constrained Codecs
 
+Video compression through image interpolation
+[
+  [ECCV 2018](https://arxiv.org/pdf/1804.06919.pdf)
+  |
+  [Unread]
+]
+
+Neural Inter-Frame Compression for Video Coding
+[
+  [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Djelouah_Neural_Inter-Frame_Compression_for_Video_Coding_ICCV_2019_paper.pdf)
+  |
+  [Unread]
+]
+
 Video Compression With Rate-Distortion Autoencoders
 [
   [ICCV 2019 3DAutoencoder](https://arxiv.org/pdf/1908.05717.pdf)
