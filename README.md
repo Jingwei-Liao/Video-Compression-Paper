@@ -70,7 +70,7 @@ Neural Inter-Frame Compression for Video Coding
 [
   [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Djelouah_Neural_Inter-Frame_Compression_for_Video_Coding_ICCV_2019_paper.pdf)
   |
-  [Unread]
+  [None]
 ]
 
 Video Compression With Rate-Distortion Autoencoders
