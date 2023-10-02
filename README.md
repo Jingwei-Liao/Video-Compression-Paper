@@ -8,6 +8,13 @@ DVC: An end-to-end deep video compression framework
   [DVC](https://github.com/GuoLusjtu/DVC)
 ]
 
+Scale-space flow for end-to-end optimized video compression
+[
+  [CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Agustsson_Scale-Space_Flow_for_End-to-End_Optimized_Video_Compression_CVPR_2020_paper.pdf)
+  |
+  [ScaleSpaceFlow](https://interdigitalinc.github.io/CompressAI/models.html)
+]
+
 Deep Contextual Video Compression
 [
   [NIPS 2021](https://proceedings.neurips.cc/paper_files/paper/2021/file/96b250a90d3cf0868c83f8c965142d2a-Paper.pdf)
