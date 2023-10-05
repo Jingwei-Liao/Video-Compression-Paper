@@ -108,3 +108,11 @@ Deep Learning for Omnidirectional Vision: A Survey and New Perspectives
   |
   [reference links](https://github.com/haoai-1997/Deep-learning-Survey-for-Omnidirectional-vision/tree/main)
 ]
+
+# 360 Opticl Flow
+PanoFlow: Learning 360◦ Optical Flow for Surrounding Temporal Understanding
+[
+  [TITS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10041956)
+  |
+  []
+]
