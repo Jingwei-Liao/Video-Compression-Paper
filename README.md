@@ -117,10 +117,18 @@ PanoFlow: Learning 360◦ Optical Flow for Surrounding Temporal Understanding
   []
 ]
 
-# Super-Resolution
+# Video Super-Resolution
 Compression-Aware Video Super-Resolution
 [
   [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Compression-Aware_Video_Super-Resolution_CVPR_2023_paper.pdf)
   |
   [CAVSR](https://github.com/aprBlue/CAVSR)
+]
+
+# Image Super-Resolution
+N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution
+[
+  [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_N-Gram_in_Swin_Transformers_for_Efficient_Lightweight_Image_Super-Resolution_CVPR_2023_paper.pdf)
+  |
+  [NGramSwin](https://github.com/rami0205/NGramSwin)
 ]
