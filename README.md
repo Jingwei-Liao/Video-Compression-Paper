@@ -116,3 +116,11 @@ PanoFlow: Learning 360◦ Optical Flow for Surrounding Temporal Understanding
   |
   []
 ]
+
+# Super-Resolution
+Compression-Aware Video Super-Resolution
+[
+  [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Compression-Aware_Video_Super-Resolution_CVPR_2023_paper.pdf)
+  |
+  [CAVSR](https://github.com/aprBlue/CAVSR)
+]
