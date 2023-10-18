@@ -132,3 +132,5 @@ N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution
   |
   [NGramSwin](https://github.com/rami0205/NGramSwin)
 ]
+
+OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer
